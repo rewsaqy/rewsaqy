@@ -236,21 +236,6 @@ Gameplay prototypes and design experiments exploring interactive systems, mechan
 
 **— Linus Torvalds**
 
-</div>
-
-The idea is simple: a design is only as good as its results in practice. Build it, test it, learn from it, and improve it.
-
-```text
-[ DEVELOPMENT STATUS ]
-
-IDEAS         : IN PROGRESS
-PROTOTYPING   : ACTIVE
-EXPERIMENTING : ACTIVE
-ITERATION     : NEVER ENDS
-```
-
----
-
 ## `> connect`
 
 <div align="center">
