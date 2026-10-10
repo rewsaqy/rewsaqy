@@ -1,25 +1,24 @@
- <!-- ================= PROFILE HEADER ================= -->
+ <div align="center">
 
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:404040,100:909090&height=180&section=header&text=rews aqy&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=GAME%20DEVELOPER%20%7C%20GAME%20DESIGNER%20%7C%203D%20ARTIST&descAlignY=60&descSize=13" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:404040,100:909090&height=210&section=header&text=rewsaqy&fontSize=68&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=GAME%20DEVELOPER%20%7C%20GAME%20DESIGNER%20%7C%203D%20ARTIST&descSize=13&descAlignY=58" width="100%" alt="rewsaqy banner"/>
+### `Building games, one system at a time.`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=650&lines=Designing+Gameplay+Mechanics;Building+Interactive+Worlds;Creating+Low-Poly+3D+Assets;Developing+Horror+Game+Experiences;Learn.+Build.+Experiment.+Repeat." alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=B0B0B0&center=true&vCenter=true&width=600&lines=Building+games%2C+one+system+at+a+time.;Experimenting+with+gameplay+mechanics.;Creating+with+Unity%2C+Godot%2C+and+Blender.;Exploring+Arch+Linux+and+open+source." alt="Typing animation"/>
-
-<br/><br/>
-
 <a href="https://github.com/rewsaqy">
-<img src="https://img.shields.io/badge/GitHub-rewsaqy-303030?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-rewsaqy-333333?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://github.com/rewsaqy?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-606060?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+<img src="https://img.shields.io/badge/PROJECTS-444444?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 <a href="https://github.com/rewsaqy?tab=stars">
-<img src="https://img.shields.io/badge/Starred_Projects-808080?style=for-the-badge&logo=github&logoColor=white" alt="Starred projects"/>
+<img src="https://img.shields.io/badge/STARRED_PROJECTS-555555?style=for-the-badge&logo=github&logoColor=white" alt="Starred Projects"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=rewsaqy&style=for-the-badge&color=505050&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<img src="https://komarev.com/ghpvc/?username=rewsaqy&style=flat-square&color=666666&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
@@ -30,23 +29,23 @@
 ```text
 Name        : rewsaqy
 Role        : Aspiring Game Developer
-Interests   : Game Design, 3D Art, Linux
+Specialties : Game Design, Gameplay Mechanics, 3D Art
 Studio      : Sinergasia Studio
-Environment : Arch Linux
+Focus       : Interactive Experiences
 Philosophy  : Learn, Build, Experiment, Repeat
 ```
 
-I'm an aspiring game developer interested in gameplay mechanics, game systems, 3D modeling, and experimental game design.
+I'm an aspiring game developer focused on gameplay mechanics, game systems, 3D modeling, and interactive experiences.
 
-I enjoy building prototypes, exploring different development tools, and learning how technical systems can support creative ideas.
+I enjoy designing gameplay loops, experimenting with mechanics, creating low-poly assets, and turning ideas into playable prototypes.
 
-Currently developing projects under **Sinergasia Studio**, while exploring open-source software and Linux development workflows.
+As part of **Sinergasia Studio**, I'm working toward developing original games that combine creative direction, atmosphere, and meaningful gameplay systems.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-505050?style=flat-square" alt="Current status"/>
-<img src="https://img.shields.io/badge/FOCUS-GAME%20DEVELOPMENT-606060?style=flat-square" alt="Focus"/>
-<img src="https://img.shields.io/badge/OS-ARCH%20LINUX-707070?style=flat-square&logo=arch-linux&logoColor=white" alt="Operating system"/>
+<img src="https://img.shields.io/badge/ROLE-Game%20Developer-333333?style=flat-square" alt="Role"/>
+<img src="https://img.shields.io/badge/FOCUS-Gameplay%20Systems-444444?style=flat-square" alt="Focus"/>
+<img src="https://img.shields.io/badge/ART-Low--Poly%203D-555555?style=flat-square" alt="3D Art"/>
 
 </div>
 
@@ -58,52 +57,48 @@ Currently developing projects under **Sinergasia Studio**, while exploring open-
 <tr>
 <td width="50%" valign="top">
 
-### 🎮 Game Development
+### Game Development
 
-Building and experimenting with games using Unity and Godot.
-
-- Gameplay systems
-- Game prototyping
-- Horror game mechanics
-- Low-spec game development
+- Developing gameplay prototypes
+- Exploring Unity and Godot
+- Implementing interactive systems
+- Building game mechanics
+- Iterating on gameplay experiences
 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 Game Design
-
-Exploring how mechanics, player decisions, and feedback work together.
+### Game Design
 
 - Core gameplay loops
-- System design
-- Player interaction
-- Level concepts
+- Player interaction systems
+- Stealth and survival mechanics
+- Puzzle design
+- Game design documentation
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧊 3D Art
+### 3D Art
 
-Creating 3D assets and exploring retro-inspired visuals using Blender.
-
+- Low-poly modeling
+- Retro and PS1-inspired visuals
 - Character modeling
-- Low-poly assets
-- Retro 3D aesthetics
-- Game-ready models
+- Environment assets
+- Game-ready 3D models
 
 </td>
 <td width="50%" valign="top">
 
-### 🐧 Linux & Open Source
+### Creative Development
 
-Exploring Linux environments and open-source development.
-
-- Arch Linux
-- Git and GitHub
-- Desktop customization
-- Developer workflows
+- Horror atmosphere and tension
+- Experimental gameplay concepts
+- Visual storytelling
+- Prototyping and iteration
+- Collaborative game production
 
 </td>
 </tr>
@@ -113,81 +108,83 @@ Exploring Linux environments and open-source development.
 
 ## `> tech_stack`
 
-### Game Engines
+<div align="center">
 
-<p>
-<img src="https://img.shields.io/badge/Unity-202020?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-<img src="https://img.shields.io/badge/Godot-404040?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot"/>
-</p>
+**Game Engines**
 
-### Programming Languages
+<br/>
 
-<p>
-<img src="https://img.shields.io/badge/C%23-505050?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
-<img src="https://img.shields.io/badge/GDScript-606060?style=for-the-badge&logo=godot-engine&logoColor=white" alt="GDScript"/>
-<img src="https://img.shields.io/badge/Markdown-303030?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-</p>
+<img src="https://img.shields.io/badge/Unity-333333?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+<img src="https://img.shields.io/badge/Godot-444444?style=for-the-badge&logo=godotengine&logoColor=white" alt="Godot"/>
 
-### Art & Design
+**Programming**
 
-<p>
-<img src="https://img.shields.io/badge/Blender-404040?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
-<img src="https://img.shields.io/badge/3D_Modeling-606060?style=for-the-badge" alt="3D modeling"/>
-<img src="https://img.shields.io/badge/Game_Design-707070?style=for-the-badge" alt="Game design"/>
-</p>
+<br/>
 
-### Tools & Environment
+<img src="https://img.shields.io/badge/C%23-444444?style=for-the-badge&logo=csharp&logoColor=white" alt="C Sharp"/>
+<img src="https://img.shields.io/badge/GDScript-555555?style=for-the-badge&logo=godotengine&logoColor=white" alt="GDScript"/>
 
-<p>
-<img src="https://img.shields.io/badge/Arch_Linux-303030?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
-<img src="https://img.shields.io/badge/Git-505050?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-<img src="https://img.shields.io/badge/GitHub-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Open_Source-707070?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open source"/>
-</p>
+**Art & Design**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Blender-333333?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
+<img src="https://img.shields.io/badge/3D_Modeling-444444?style=for-the-badge" alt="3D Modeling"/>
+<img src="https://img.shields.io/badge/Game_Design-555555?style=for-the-badge" alt="Game Design"/>
+<img src="https://img.shields.io/badge/Level_Design-666666?style=for-the-badge" alt="Level Design"/>
+
+</div>
 
 ---
 
 ## `> featured_projects`
 
-### 01 — Textack
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img align="right" width="90" src="https://img.shields.io/badge/CLI-GAME-303030?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal game"/>
+### Textack
 
-An experimental terminal-based game project focused on text-driven interaction, game logic, and command-line-inspired presentation.
+**Terminal-Based Game**
 
-**Focus:** Terminal interface, gameplay systems, and open-source development.
+An experimental game project focused on text-driven interaction, game logic, and terminal-based presentation.
 
-<a href="https://github.com/rewsaqy?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-505050?style=for-the-badge&logo=github&logoColor=white" alt="View Textack projects"/>
-</a>
+- Text-based gameplay
+- Interactive command-line presentation
+- Experimental game mechanics
 
-<br clear="right"/>
+[Explore Projects](https://github.com/rewsaqy?tab=repositories)
 
-### 02 — Silent Universe: Last Shift
+</td>
+<td width="50%" valign="top">
 
-<img align="right" width="90" src="https://img.shields.io/badge/SURVIVAL-HORROR-404040?style=for-the-badge&logo=unity&logoColor=white" alt="Survival horror game"/>
+### Silent Universe: Last Shift
 
-A survival horror project exploring stealth, atmosphere, environmental storytelling, and interconnected gameplay systems.
+**Survival Horror · Unity**
 
-**Engine:** Unity
+A survival horror game combining stealth, puzzles, environmental interaction, and multiple gameplay perspectives.
 
-**Focus:** Game mechanics, stealth, and immersive environments.
+- Survival and stealth mechanics
+- Atmospheric horror
+- 2D and 3D gameplay systems
+- Sound and environmental tension
 
-<a href="https://github.com/rewsaqy?tab=repositories">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-505050?style=for-the-badge&logo=github&logoColor=white" alt="View Silent Universe projects"/>
-</a>
+[Explore Projects](https://github.com/rewsaqy?tab=repositories)
 
-<br clear="right"/>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-### 03 — Experimental Game Projects
+### Experimental Game Projects
 
-Exploring different gameplay concepts, prototypes, and mechanics while improving my skills in game design and implementation.
+Gameplay prototypes and design experiments exploring interactive systems, mechanics, atmosphere, and different approaches to game development.
 
-<a href="https://github.com/rewsaqy?tab=repositories">
-<img src="https://img.shields.io/badge/ALL_REPOSITORIES-707070?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/>
-</a>
+[Explore All Projects](https://github.com/rewsaqy?tab=repositories)
 
-> Project cards above currently link to your repository list. Replace them with direct repository URLs when the relevant projects are published.
+</td>
+</tr>
+</table>
 
 ---
 
@@ -195,21 +192,25 @@ Exploring different gameplay concepts, prototypes, and mechanics while improving
 
 <div align="center">
 
-<a href="https://githubgithub.com/rewsaqy">
-<img src="https://github-readme-stats.vercel.app/api?username=rewsaqy&show_icons=true&theme=graywhite&hide_border=true&title_color=303030&icon_color=606060&text_color=404040" height="165" alt="GitHub statistics"/>
+<a href="https://github.com/rewsaqy">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rewsaqy&show_icons=true&hide_border=true&bg_color=00000000&title_color=AAAAAA&text_color=CCCCCC&icon_color=888888&ring_color=888888&include_all_commits=true" alt="GitHub Statistics"/>
 </a>
 
 <a href="https://github.com/rewsaqy">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewsaqy&layout=compact&theme=graywhite&hide_border=true&title_color=303030&text_color=404040" height="165" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rewsaqy&layout=compact&hide_border=true&bg_color=00000000&title_color=AAAAAA&text_color=CCCCCC&langs_count=6" alt="Most Used Languages"/>
+</a>
+
+<br/>
+
+<a href="https://streak-stats.demolab.com/?user=rewsaqy">
+<img src="https://streak-stats.demolab.com/?user=rewsaqy&hide_border=true&background=00000000&ring=888888&fire=AAAAAA&currStreakLabel=CCCCCC&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=CCCCCC&dates=777777" alt="GitHub Contribution Streak"/>
 </a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=rewsaqy&theme=graywhite&hide_border=true&ring=606060&fire=808080&currStreakLabel=404040" width="70%" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=rewsaqy&theme=flat&no-frame=true&no-bg=true&row=1&column=6" width="100%" alt="GitHub trophies"/>
+<a href="https://github-profile-trophy.vercel.app/?username=rewsaqy">
+<img src="https://github-profile-trophy.vercel.app/?username=rewsaqy&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
@@ -217,31 +218,36 @@ Exploring different gameplay concepts, prototypes, and mechanics while improving
 
 ## `> currently_exploring`
 
-- [ ] Improving game architecture and maintainable code.
-- [ ] Exploring AI behavior and gameplay systems.
+- [ ] Improving gameplay architecture and code structure.
+- [ ] Designing more engaging gameplay mechanics.
 - [ ] Creating low-poly and retro 3D assets.
-- [ ] Improving Linux development workflows.
-- [ ] Building and documenting open-source projects.
-- [ ] Learning through experimentation and iteration.
+- [ ] Exploring enemy AI and player interaction.
+- [ ] Developing original game concepts.
+- [ ] Improving the quality of game prototypes.
+- [ ] Turning creative ideas into playable experiences.
 
 ---
 
-## `> developer_mindset`
+## `> design_philosophy`
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=graywhite" alt="Developer quote"/>
+> "Theory and practice sometimes clash. And when that happens, theory loses. Every single time."
 
-<br/><br/>
-
-```text
-BUILD SMALL.
-TEST OFTEN.
-UNDERSTAND THE SYSTEM.
-IMPROVE THROUGH ITERATION.
-```
+**— Linus Torvalds**
 
 </div>
+
+The idea is simple: a design is only as good as its results in practice. Build it, test it, learn from it, and improve it.
+
+```text
+[ DEVELOPMENT STATUS ]
+
+IDEAS         : IN PROGRESS
+PROTOTYPING   : ACTIVE
+EXPERIMENTING : ACTIVE
+ITERATION     : NEVER ENDS
+```
 
 ---
 
@@ -250,19 +256,16 @@ IMPROVE THROUGH ITERATION.
 <div align="center">
 
 <a href="https://github.com/rewsaqy">
-<img src="https://img.shields.io/badge/GitHub-Visit_Profile-303030?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile"/>
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-
 <a href="https://github.com/rewsaqy?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-My_Projects-606060?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/My_Projects-333333?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:909090,50:404040,100:080808&height=110&section=footer" width="100%" alt="Footer"/>
+*Design the mechanics. Build the experience. Make it playable.*
 
-<sub>Learning by building. Improving by experimenting.</sub>
-
-**rewsaqy · Sinergasia Studio**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:909090,50:404040,100:080808&height=100&section=footer" width="100%" alt="Footer"/>
 
 </div>
